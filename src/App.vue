@@ -15,7 +15,7 @@ export default {
 </script>
 <style scoped>
 #app{
-  background-image: linear-gradient( to right, #EB5757,#000000);
+  background-image: linear-gradient( to right, #EB5757,#9b5050);
  
 }
 .content{
